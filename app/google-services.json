@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197585177113",
+    "project_id": "ejemplom4a",
+    "storage_bucket": "ejemplom4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197585177113:android:aa0ad73528d82f5b0e3888",
+        "android_client_info": {
+          "package_name": "com.ariel.usofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZX8mHb_66pq8McqT-If-1dXmS2mO6DQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
